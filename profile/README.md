@@ -6,4 +6,6 @@ We like to have fun and make cool stuff. We depend on the teamwork and collabera
 * No censorship or filtering of media
 * We build for ourselves and others
 
-[![Sudo-Flix](https://github.com/user-attachments/assets/37fac82e-5471-452e-a6ef-fa5bf674baec)  *click me](https://docs.sudo-flix.lol)
+<p align="center">
+  <a href="https://docs.sudo-flix.lol">docs</a> · <a href="https://sudo-flix.lol">website</a> · <a href="https://docs.sudo-flix.lol/links/discord"?>discord</a>
+</p>
