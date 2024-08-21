@@ -7,5 +7,5 @@ We like to have fun and make cool stuff. We depend on the teamwork and collabera
 * We build for ourselves and others
 
 <p align="center">
-  <a href="https://docs.sudo-flix.lol">docs</a> · <a href="https://sudo-flix.lol">website</a> · <a href="https://docs.sudo-flix.lol/links/discord"?>discord</a>
+  <a href="https://docs.undi.rest">docs</a> · <a href="https://sudo-flix.lol">website</a> · <a href="https://docs.sudo-flix.lol/links/discord"?>discord</a>
 </p>
